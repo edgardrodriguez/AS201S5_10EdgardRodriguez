@@ -1,4 +1,6 @@
-com\ms1\ms1user\Ms1UserApplication.class
-com\ms1\ms1user\model\user.class
-com\ms1\ms1user\controller\userC.class
-com\ms1\ms1user\repository\repository.class
+com\example\demo\MicroserviceUserApplication.class
+com\example\demo\service\UserServiceImpl.class
+com\example\demo\service\UserService.class
+com\example\demo\controller\UserController.class
+com\example\demo\model\User.class
+com\example\demo\repository\UserRepository.class
